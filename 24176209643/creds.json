@@ -49,8 +49,8 @@
   "registrationId": 10,
   "advSecretKey": "t4AOpH1n36nQFK0AjIvuuLJmBb84OBOE8Rjsu7eZEmo=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 31,
-  "firstUnuploadedPreKeyId": 31,
+  "nextPreKeyId": 61,
+  "firstUnuploadedPreKeyId": 61,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -58,7 +58,9 @@
   "registered": true,
   "pairingCode": "LV2S67JE",
   "me": {
-    "id": "24176209643:10@s.whatsapp.net"
+    "id": "24176209643:10@s.whatsapp.net",
+    "lid": "154525004517517:10@lid",
+    "name": "𝐼’𝒶𝓂 𝓁𝒾𝑜𝓃𝑒𝓁"
   },
   "account": {
     "details": "CKytkI0JEMz65c4GGAQgACgA",

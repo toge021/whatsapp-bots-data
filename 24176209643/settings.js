@@ -1,0 +1,1 @@
+"// Configuration auto-générée pour le bot 24176209643\nexport default {\n  \"OWNER_NUMBER\": \"24176209643\",\n  \"OWNER_NAME\": \"➵ 𝙹𝚞𝚜𝚝 𝚕𝚒𝚘𝚗𝚎𝚕 ➵\",\n  \"PREFIX\": \".\",\n  \"BOT_NAME\": \"𝚃𝙾𝙶𝙴-𝙼𝙳-𝚅𝟻\",\n  \"AUTO_READ\": true,\n  \"AUTO_LIKE_STATUS\": true,\n  \"AUTO_TYPING\": false,\n  \"AUTO_RECORDING\": false,\n  \"AUTO_TYPING_BEFORE_REPLY\": true\n};"
